@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify556674b6c34f4-staging-23421-authRole",
+      "UnauthRoleArn": "arn:aws:iam::771043065062:role/amplify-amplify556674b6c34f4-staging-23421-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::771043065062:role/amplify-amplify556674b6c34f4-staging-23421-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplify556674b6c34f4-staging-23421-deployment",
+      "UnauthRoleName": "amplify-amplify556674b6c34f4-staging-23421-unauthRole",
+      "StackName": "amplify-amplify556674b6c34f4-staging-23421",
+      "StackId": "arn:aws:cloudformation:us-west-2:771043065062:stack/amplify-amplify556674b6c34f4-staging-23421/4e3b88e0-73ed-11eb-a54f-0a5dfebd7057",
+      "AmplifyAppId": "d1yakp7vrzp1sz"
+    },
+    "categories": {
+      "auth": {
+        "razeramplifyapp7181ae1a": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "razeramplifyapp7181ae1a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
